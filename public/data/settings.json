@@ -8,8 +8,8 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <strong>Portfolio</strong>",
-        "subtitle": "by Ryan Balieiro",
+        "title": "Developer <strong>Portfolio</strong>",
+        "subtitle": "of Nawa Almahasin",
         "logoOffset": {
             "right": 14,
             "top": 2,
@@ -32,19 +32,9 @@
             "flagUrl": "images/flags/en-us.png"
         },
         {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
-        },
-        {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
-        },
-        {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
+            "name": "Indonesian",
+            "id": "id",
+            "flagUrl": "images/flags/id.png"
         }
     ],
 
