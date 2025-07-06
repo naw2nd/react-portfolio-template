@@ -22,7 +22,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/udemy-logo.png",
+                    "img": "images/pictures/logos/udemy-logo.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2024, "month": 1},
@@ -41,7 +41,7 @@
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/pens-logo.png",
+                    "img": "images/pictures/logos/pens-logo.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2018, "month": 8},
